@@ -19,3 +19,8 @@ It includes examples of:
 1. Install dependencies:  
    ```bash
    pip install selenium
+2.Update the script with your Facebook credentials and post text.
+
+3. Run the script:
+
+python facebook_auto.py
